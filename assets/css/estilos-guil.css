@@ -1,0 +1,72 @@
+* {
+  font-family: 'Roboto', sans-serif;
+}
+
+.navbar-guil {
+  background-color: #4EC689;
+}
+
+.navbar-items {
+  flex-grow: 0 !important;
+}
+
+.navbar-guil img {
+  width: 100%;
+}
+
+.lineup {
+  width: 25rem;
+}
+
+.artist {
+  width: 406px;
+  height: 200px;
+  object-fit: cover;
+}
+
+.sb-name h5 {
+  color: #67a8e6;
+}
+
+.nm-name h5 {
+  color: #e63bb2;
+}
+
+.sb-name p,
+.nm-name p {
+  font-weight: 300;
+}
+
+.artist-info {
+  font-weight: 500;
+}
+
+.artist-info span {
+  font-weight: 300;
+}
+
+.form-guil {
+  background-color: #4EC689;
+  padding: 2em;
+  margin: 2em 0;
+}
+
+.guil-footer {
+  color: #BABABA;
+  text-align: center;
+  font-size: 0.7rem;
+  font-weight: 300;
+  padding: 2em;
+}
+
+.guil-footer img {
+  width: 4rem;
+}
+
+.sb-lider {
+  background-color: #67a8e6 !important;
+}
+
+.nm-lider {
+  background-color: #e63bb2 !important;
+}
